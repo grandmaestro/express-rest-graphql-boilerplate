@@ -1,0 +1,14 @@
+const ALL_WORKSPACES = ``;
+
+const WORKSPACE_BY_ID = ``;
+
+const ADD_WORKSPACE = ``;
+
+const UPDATE_WORKSPACE = ``;
+
+module.exports = {
+  ALL_WORKSPACES,
+  WORKSPACE_BY_ID,
+  ADD_WORKSPACE,
+  UPDATE_WORKSPACE
+}
